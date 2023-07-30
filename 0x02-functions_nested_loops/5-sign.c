@@ -2,8 +2,8 @@
 
 /**
  * print_sign - print the sign of a number
- * @c: the number to be checked
- * Return: 1 for positive +ve, -1 for nagative -ve or zero for anything else
+ * @n: the number to be checked
+ * Return: 1 for positive n, -1 for nagative n or zero for anything else
  */
 
 int print_sign(int n)
